@@ -1,5 +1,5 @@
 # Site settings
-name: Wiki Blog
+name: Wiki's Blog
 email: tianyuanchun94@live.com
 author: Yuanchun Tian
 #url: http://www.hifreud.com
@@ -7,7 +7,7 @@ author: Yuanchun Tian
 github: https://github.com/yuanchuntian/
 baseurl: ""
 description: Talk is cheap. Show me the code.
-meta_description: Wiki;个人博客;
+meta_description: Wiki;Blog;
 motto: Talk is cheap. Show me the code.
 banner: All those moments will be lost in time,like tears in rain. 
 
