@@ -1,15 +1,15 @@
 # Site settings
-name: WIKI Blog
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+name: Wiki Blog
+email: tianyuanchun94@live.com
+author: Yuanchun Tian
+#url: http://www.hifreud.com
+#resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/yuanchuntian/
+baseurl: ""
+description: Talk is cheap. Show me the code.
+meta_description: Wiki;个人博客;
+motto: Talk is cheap. Show me the code.
+banner: All those moments will be lost in time,like tears in rain. 
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: yuanchuantian
 
 # Build settings
 markdown: kramdown
